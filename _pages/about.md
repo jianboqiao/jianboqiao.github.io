@@ -28,7 +28,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 📖 Educations
 - *2024.09 - now*, Artificial Intelligence, PhD student, Shandong University, Jinan, China.
-- *2022.09 - 2024.06*, Software Engineering, Shandong University, Jinan, China.
+- *2022.09 - 2024.06*, Software Engineering, Master's student, Shandong University, Jinan, China.
 - *2018.09 - 2022.06*, Software Engineering, Bachelor's Degree, Shandong University, Jinan, China.
  
 
