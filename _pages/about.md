@@ -17,18 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Qiao Jianbo (乔剑博), a Ph.D. student at the School of Software Engineering, Shandong University. I graduated from Shandong University with a bachelor's degree in software engineering in 2022. I am currently pursuing my Ph.D. in Professor <a href='https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl'>Wei Leyi</a>'s research group (<a href='https://wei-group.net/'>WeiLab</a>). My research interests include artificial intelligence and bioinformatics, AI drug discovery, and genome sequence analysis.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉 We have one paper accepted by Science China Information Sciences [CCF-A]. 
+- *2025.05*: &nbsp;🎉 We have one paper accepted by Neural Networks [CCF-B]. 
+- *2025.05*: &nbsp;🎉 We have one paper accepted by **Nature Communications** [Nature子刊]. 
+- *2024.01*: &nbsp;🎉 We have one paper accepted by Information Sciences [CCF-B].
+
+# 📖 Educations
+- *2024.09 - now*, Artificial Intelligence, PhD student, Shandong University, Jinan, China.
+- *2022.09 - 2024.06*, Software Engineering, Shandong University, Jinan, China.
+- *2018.09 - 2022.06*, Software Engineering, Bachelor’s Degree, Shandong University, Jinan, China.
+ 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +44,21 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185). **Jianbo Qiao**, Junru Jin, Haoqing Yu, Leyi Wei. **Information Sciences**.<font color="red">[CCF-B]</font>.
+- [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0). **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications**.<font color="red">[Nature子刊]</font>.
+- [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350). **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks**.<font color="red">[CCF-B]</font>.
+- Molecular pretraining models towards molecular property prediction. **Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences**.<font color="red">[CCF-A]</font>.
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
