@@ -45,11 +45,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
-- [Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185). **Jianbo Qiao**, Junru Jin, Haoqing Yu, Leyi Wei. **Information Sciences**. <font color="red">[CCF-B]</font>.
-- [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0). **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications**. <font color="red">[Nature子刊]</font>.
-- [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350). **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks**. <font color="red">[CCF-B]</font>.
 - Molecular pretraining models towards molecular property prediction. **Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences**. <font color="red">[CCF-A]</font>.
+- [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350). **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks**. <font color="red">[CCF-B]</font>.
+- [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0). **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications**. <font color="red">[Nature子刊]</font>.
+- [Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185). **Jianbo Qiao**, Junru Jin, Haoqing Yu, Leyi Wei. **Information Sciences**. <font color="red">[CCF-B]</font>.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
