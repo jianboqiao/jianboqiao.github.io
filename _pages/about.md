@@ -23,7 +23,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [CCF-A]. 
 - *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [CCF-B]. 
-- *2025.05*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊]. 
+- *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊]. 
 - *2024.01*: &nbsp;🎉 One paper accepted by Information Sciences [CCF-B].
 
 # 📖 Educations
