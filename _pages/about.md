@@ -45,10 +45,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).  
+**Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[CCF-A]</font>.
 - [GICL: A Cross-Modal Drug Property Prediction Framework Based on Knowledge Enhancement of Large Language Models](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00895).  
 Na Li, **Jianbo Qiao**, Fei Gao, Yanling Wang, Hua Shi, Zilong Zhang, Feifei Cui, Lichao Zhang, Leyi Wei. **Journal of Chemical Information and Modeling, 2025**.
-- Molecular pretraining models towards molecular property prediction.  
-**Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[CCF-A]</font>.
 - [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
 **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks, 2025**. <font color="red">[CCF-B]</font>.
 - [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0).  
