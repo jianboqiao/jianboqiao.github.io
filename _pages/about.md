@@ -45,6 +45,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Accurate detection and quantification of single-base m6A RNA modification using nanopore signals with multi-view deep learning](https://www.biorxiv.org/content/10.1101/2025.08.04.668591v1.article-metrics).  
+Jun Zhang, **Jianbo Qiao**, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wenjia Gao, Leyi Wei. **bioRxiv, 2025**.
+- [Efficient RNA nucleotide encoding enhances the accurate prediction of ac4C modifications](https://www.sciencedirect.com/science/article/pii/S1046202325001860?via%3Dihub).  
+Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 2025**.
 - [MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration](https://academic.oup.com/bib/article/26/5/bbaf447/8245190?searchresult=1).  
 Junlei Yu , Wenjia Gao , Siqi Chen , Ronglin Lu , **Jianbo Qiao** , Junru Jin , Leyi Wei , Hua Shi , Zilong Zhang , Feifei Cui , Xinbo Jiang , Zhongmin Yan. **Briefings in Bioinformatics, 2025**. <font color="red">[CCF-B]</font>.
 - [EDNTOM: An Ensemble Learning and Weight Mechanism-Based Nanopore Methylation Detection Tool](https://pubs.acs.org/doi/full/10.1021/acsomega.5c01924).  
