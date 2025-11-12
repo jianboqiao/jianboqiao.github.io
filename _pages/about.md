@@ -21,6 +21,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）. 
 - *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [CCF-A]. 
 - *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [CCF-B]. 
 - *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊]. 
@@ -45,6 +46,8 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
+Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Computational Biology and Chemistry, 2025**.
 - [Accurate detection and quantification of single-base m6A RNA modification using nanopore signals with multi-view deep learning](https://www.biorxiv.org/content/10.1101/2025.08.04.668591v1.article-metrics).  
 Jun Zhang, **Jianbo Qiao**, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wenjia Gao, Leyi Wei. **bioRxiv, 2025**.
 - [Efficient RNA nucleotide encoding enhances the accurate prediction of ac4C modifications](https://www.sciencedirect.com/science/article/pii/S1046202325001860?via%3Dihub).  
@@ -82,9 +85,8 @@ Sirui Liang, Yanxi Zhao, Junru Jin, **Jianbo Qiao**, Ding Wang, Yu Wang, Leyi We
 - [Clinical Phenotyping Prediction via Auxiliary Task Selection and Adaptive Shared-Space Correction](https://link.springer.com/chapter/10.1007/978-3-031-20500-2_36).  
 Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen Cui. **CAAI International Conference on Artificial Intelligence (CICAI), 2022**.
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.10* National Scholarship for Graduate Students（研究生国家奖学金）. 
 
 
 # 💬 Invited Talks
