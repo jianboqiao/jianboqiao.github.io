@@ -21,7 +21,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 
 # 🔥 News
+- *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
+- *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry. 
 - *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）. 
+- *2025.08*: &nbsp; One paper accepted by Methods. 
 - *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [CCF-A]. 
 - *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [CCF-B]. 
 - *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊]. 
@@ -46,6 +49,8 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
+Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 - [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
 Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Computational Biology and Chemistry, 2025**.
 - [Accurate detection and quantification of single-base m6A RNA modification using nanopore signals with multi-view deep learning](https://www.biorxiv.org/content/10.1101/2025.08.04.668591v1.article-metrics).  
