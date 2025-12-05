@@ -49,6 +49,8 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
+Wentao Long, Zhongshen Li, Junru Jin, **Jianbo Qiao**, Yu Wang, Leyi Wei. **Genomics, Proteomics & Bioinformatics, 2025**.
 - [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
 Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 - [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
