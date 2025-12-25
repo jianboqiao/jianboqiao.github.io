@@ -21,6 +21,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology. 
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
 - *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry. 
 - *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）. 
@@ -49,6 +50,8 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
+Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
 - [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
 Wentao Long, Zhongshen Li, Junru Jin, **Jianbo Qiao**, Yu Wang, Leyi Wei. **Genomics, Proteomics & Bioinformatics, 2025**.
 - [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
@@ -60,7 +63,7 @@ Jun Zhang, **Jianbo Qiao**, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wen
 - [Efficient RNA nucleotide encoding enhances the accurate prediction of ac4C modifications](https://www.sciencedirect.com/science/article/pii/S1046202325001860?via%3Dihub).  
 Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 2025**.
 - [MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration](https://academic.oup.com/bib/article/26/5/bbaf447/8245190?searchresult=1).  
-Junlei Yu , Wenjia Gao , Siqi Chen , Ronglin Lu , **Jianbo Qiao** , Junru Jin , Leyi Wei , Hua Shi , Zilong Zhang , Feifei Cui , Xinbo Jiang , Zhongmin Yan. **Briefings in Bioinformatics, 2025**. <font color="red">[CCF-B]</font>.
+Junlei Yu, Wenjia Gao, Siqi Chen, Ronglin Lu, **Jianbo Qiao**, Junru Jin, Leyi Wei, Hua Shi, Zilong Zhang, Feifei Cui, Xinbo Jiang, Zhongmin Yan. **Briefings in Bioinformatics, 2025**. <font color="red">[CCF-B]</font>.
 - [EDNTOM: An Ensemble Learning and Weight Mechanism-Based Nanopore Methylation Detection Tool](https://pubs.acs.org/doi/full/10.1021/acsomega.5c01924).  
 Ge Tian, Chenglin Yin, **Jianbo Qiao**, Ruheng Wang, Hua Shi, Feifei Cui, Zilong Zhang, Xinbo Jiang, Leyi Wei. **ACS Omega, 2025**.
 - [Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).  
