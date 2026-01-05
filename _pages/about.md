@@ -39,12 +39,21 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/nc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/nc-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0).  
 
 **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications, 2025**. <font color="red">[Nature子刊]</font>.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENCE CHINA Information Sciences</div><img src='images/scis-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).
+
+**Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[CCF-A]</font>.
 </div>
 </div>
 
@@ -64,8 +73,6 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 Junlei Yu, Wenjia Gao, Siqi Chen, Ronglin Lu, **Jianbo Qiao**, Junru Jin, Leyi Wei, Hua Shi, Zilong Zhang, Feifei Cui, Xinbo Jiang, Zhongmin Yan. **Briefings in Bioinformatics, 2025**. <font color="red">[CCF-B]</font>.
 - [EDNTOM: An Ensemble Learning and Weight Mechanism-Based Nanopore Methylation Detection Tool](https://pubs.acs.org/doi/full/10.1021/acsomega.5c01924).  
 Ge Tian, Chenglin Yin, **Jianbo Qiao**, Ruheng Wang, Hua Shi, Feifei Cui, Zilong Zhang, Xinbo Jiang, Leyi Wei. **ACS Omega, 2025**.
-- [Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).  
-**Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[CCF-A]</font>.
 - [GICL: A Cross-Modal Drug Property Prediction Framework Based on Knowledge Enhancement of Large Language Models](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00895).  
 Na Li, **Jianbo Qiao**, Fei Gao, Yanling Wang, Hua Shi, Zilong Zhang, Feifei Cui, Lichao Zhang, Leyi Wei. **Journal of Chemical Information and Modeling, 2025**.
 - [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
