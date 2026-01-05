@@ -39,17 +39,17 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/nc.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0).  
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications, 2025**. <font color="red">[Nature子刊]</font>.
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-
+</div> -->
 - [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
 Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
 - [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
@@ -72,6 +72,8 @@ Ge Tian, Chenglin Yin, **Jianbo Qiao**, Ruheng Wang, Hua Shi, Feifei Cui, Zilong
 Na Li, **Jianbo Qiao**, Fei Gao, Yanling Wang, Hua Shi, Zilong Zhang, Feifei Cui, Lichao Zhang, Leyi Wei. **Journal of Chemical Information and Modeling, 2025**.
 - [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
 **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks, 2025**. <font color="red">[CCF-B]</font>.
+- [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0).  
+**Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications, 2025**. <font color="red">[Nature子刊]</font>.
 - [MC-MSTLoc: Self-supervised Pre-training for Imbalanced Multi-label Protein Subcellular Localization Prediction Using Immunofluorescence Images](https://ieeexplore.ieee.org/abstract/document/10980476).  
 Fengsheng Wang, **Jianbo Qiao**, Xu Guo, Leyi Wei. **IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025**. <font color="red">[CCF-B]</font>.
 - [Computational models for prediction of m6A sites using deep learning](https://www.sciencedirect.com/science/article/pii/S1046202325001082).  
