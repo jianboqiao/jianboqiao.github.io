@@ -48,7 +48,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENCE CHINA Information Sciences</div><img src='images/scis-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).
+[Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).  
 **Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[CCF-A]</font>.
 </div>
 </div>
@@ -62,7 +62,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/ins-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185).
+[Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185).  
 **Jianbo Qiao**, Junru Jin, Haoqing Yu, Leyi Wei. **Information Sciences, 2024**. <font color="red">[CCF-B]</font>.
 </div>
 </div>
@@ -76,7 +76,7 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Synthetic Biology</div><img src='images/abt-ddi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748). 
+[ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
 Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
 </div>
 </div>
