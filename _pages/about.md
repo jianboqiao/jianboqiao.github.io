@@ -46,10 +46,6 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications, 2025**. <font color="red">[Nature子刊]</font>.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-
 - [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
 Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
 - [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
