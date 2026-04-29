@@ -23,12 +23,12 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 # 🔥 News
 - *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology. 
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
-- *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry. 
-- *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）. 
+- *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
+- *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）.
 - *2025.08*: &nbsp; One paper accepted by Methods. 
-- *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [一区TOP, CCF-A]. 
-- *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [二区TOP, CCF-B]. 
-- *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP]. 
+- *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [一区TOP, CCF-A].
+- *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [一区TOP, CCF-B]. 
+- *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
 - *2024.01*: &nbsp;🎉 One paper accepted by Information Sciences [一区TOP, CCF-B].
 
 # 📖 Educations
@@ -56,7 +56,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
-**Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks, 2025**. <font color="red">[二区TOP, CCF-B]</font>.
+**Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks, 2025**. <font color="red">[一区TOP, CCF-B]</font>.
 </div>
 </div>
 
@@ -74,13 +74,12 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Synthetic Biology</div><img src='images/abt-ddi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
+- [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
+Ke Qiu, Kefei Li, **Jianbo Qiao**, Ding Wang, Junru Jin, Zhongmin Yan, Ka-Chun Wong, Leyi Wei. **European Journal of Medicinal Chemistry, 2026**.
+- [Structure-Aware Multimodal Learning Improves Minor-Class Signal Peptide Prediction](https://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00037).  
+Yuntao Yang, Shuwen Xiong, Siqi Chen, **Jianbo Qiao**, Hanjun Zhao, Zhongmin Yan, Leyi Wei. **ACS Synthetic Biology, 2026**.
+- [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
 Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
-</div>
-</div>
-
 - [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
 Wentao Long, Zhongshen Li, Junru Jin, **Jianbo Qiao**, Yu Wang, Leyi Wei. **Genomics, Proteomics & Bioinformatics, 2025**. <font color="red">[一区TOP]</font>.
 - [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
