@@ -80,25 +80,25 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 <div markdown="1">
 - [CataCon: a contrastive graph representation learning framework for catalyst prediction](https://link.springer.com/article/10.1186/s13321-026-01212-7).  
 Hua Shi, Yuzhe Wang, Shouzhen Song, Kefei Li, Wenjia Gao, Shuan Liu, **Jianbo Qiao\***, Leyi Wei*. **Journal of Cheminformatics, 2026**. <font color="red">[一区TOP]</font>.
+- [FGMA: A Functional Group-enhanced Deep Learning Method for Drug Toxicity Prediction](https://www.eurekaselect.com/article/153204).  
+Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Current Drug Targets, 2026**.
+- [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
+Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
+- [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
+Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Computational Biology and Chemistry, 2025**.
+- [Efficient RNA nucleotide encoding enhances the accurate prediction of ac4C modifications](https://www.sciencedirect.com/science/article/pii/S1046202325001860?via%3Dihub).  
+Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 2025**.
 </div>
 <hr>
 
-- [FGMA: A Functional Group-enhanced Deep Learning Method for Drug Toxicity Prediction](https://www.eurekaselect.com/article/153204).  
-Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Current Drug Targets, 2026**.
 - [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
 Ke Qiu, Kefei Li, **Jianbo Qiao**, Ding Wang, Junru Jin, Zhongmin Yan, Ka-Chun Wong, Leyi Wei. **European Journal of Medicinal Chemistry, 2026**.
 - [Structure-Aware Multimodal Learning Improves Minor-Class Signal Peptide Prediction](https://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00037).  
 Yuntao Yang, Shuwen Xiong, Siqi Chen, **Jianbo Qiao**, Hanjun Zhao, Zhongmin Yan, Leyi Wei. **ACS Synthetic Biology, 2026**.
-- [ABT-DDI: A Graph Transformer Model with Atomic-Bond Structure Awareness for Drug–Drug Interaction Prediction](https://pubs.acs.org/doi/10.1021/acssynbio.5c00748).  
-Xu Guo#, **Jianbo Qiao#**, Siqi Chen, Junru Jin, Ding Wang, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Zhongmin Yan, Leyi Wei, Xinbo Jiang. **ACS Synthetic Biology, 2025**.
 - [HGCPep: Hypergraph Deep Learning Identifies Cancer-associated Non-coding Peptides](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf093/8362870).  
 Wentao Long, Zhongshen Li, Junru Jin, **Jianbo Qiao**, Yu Wang, Leyi Wei. **Genomics, Proteomics & Bioinformatics, 2025**. <font color="red">[一区TOP]</font>.
-- [TK-DDI: Accurate and efficient drug-drug interaction prediction via token encoding](https://www.sciencedirect.com/science/article/pii/S1476927125003950).  
-Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Computational Biology and Chemistry, 2025**.
 - [Accurate detection and quantification of single-base m6A RNA modification using nanopore signals with multi-view deep learning](https://www.biorxiv.org/content/10.1101/2025.08.04.668591v1.article-metrics).  
 Jun Zhang, **Jianbo Qiao**, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wenjia Gao, Leyi Wei. **bioRxiv, 2025**.
-- [Efficient RNA nucleotide encoding enhances the accurate prediction of ac4C modifications](https://www.sciencedirect.com/science/article/pii/S1046202325001860?via%3Dihub).  
-Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 2025**.
 - [MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration](https://academic.oup.com/bib/article/26/5/bbaf447/8245190?searchresult=1).  
 Junlei Yu, Wenjia Gao, Siqi Chen, Ronglin Lu, **Jianbo Qiao**, Junru Jin, Leyi Wei, Hua Shi, Zilong Zhang, Feifei Cui, Xinbo Jiang, Zhongmin Yan. **Briefings in Bioinformatics, 2025**. <font color="red">[二区TOP, CCF-B]</font>.
 - [EDNTOM: An Ensemble Learning and Weight Mechanism-Based Nanopore Methylation Detection Tool](https://pubs.acs.org/doi/full/10.1021/acsomega.5c01924).  
