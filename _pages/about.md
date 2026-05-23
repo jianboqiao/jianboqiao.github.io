@@ -76,8 +76,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 </div>
 </div>
+<div>
 - [CataCon: a contrastive graph representation learning framework for catalyst prediction](https://link.springer.com/article/10.1186/s13321-026-01212-7).  
 Hua Shi, Yuzhe Wang, Shouzhen Song, Kefei Li, Wenjia Gao, Shuan Liu, **Jianbo Qiao\***, Leyi Wei*. **Journal of Cheminformatics, 2026**. <font color="red">[一区TOP]</font>.
+</div>
 - [FGMA: A Functional Group-enhanced Deep Learning Method for Drug Toxicity Prediction](https://www.eurekaselect.com/article/153204).  
 Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Current Drug Targets, 2026**.
 - [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
