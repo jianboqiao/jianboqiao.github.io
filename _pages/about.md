@@ -21,7 +21,9 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology. 
+
+- *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics.
+- *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
 - *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
 - *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）.
@@ -32,6 +34,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - *2024.01*: &nbsp;🎉 One paper accepted by Information Sciences [一区TOP, CCF-B].
 
 # 📖 Educations
+
 - *2024.09 - now*, Artificial Intelligence, PhD student, Shandong University, Jinan, China.
 - *2022.09 - 2024.06*, Software Engineering, Master's student, Shandong University, Jinan, China.
 - *2018.09 - 2022.06*, Software Engineering, Bachelor's Degree, Shandong University, Jinan, China.
@@ -73,7 +76,10 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 </div>
 </div>
-
+- [CataCon: a contrastive graph representation learning framework for catalyst prediction](https://link.springer.com/article/10.1186/s13321-026-01212-7).  
+Hua Shi, Yuzhe Wang, Shouzhen Song, Kefei Li, Wenjia Gao, Shuan Liu, **Jianbo Qiao\***, Leyi Wei*. **Journal of Cheminformatics, 2026**. <font color="red">[一区TOP]</font>.
+- [FGMA: A Functional Group-enhanced Deep Learning Method for Drug Toxicity Prediction](https://www.eurekaselect.com/article/153204).  
+Yue Cheng#, **Jianbo Qiao#**, Siqi Chen, Leyi Wei, Guangmin Liang. **Current Drug Targets, 2026**.
 - [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
 Ke Qiu, Kefei Li, **Jianbo Qiao**, Ding Wang, Junru Jin, Zhongmin Yan, Ka-Chun Wong, Leyi Wei. **European Journal of Medicinal Chemistry, 2026**.
 - [Structure-Aware Multimodal Learning Improves Minor-Class Signal Peptide Prediction](https://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00037).  
