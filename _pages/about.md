@@ -22,7 +22,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 🔥 News
 
-- *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics.
+- *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].
 - *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
 - *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
