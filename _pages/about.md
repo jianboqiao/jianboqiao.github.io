@@ -134,26 +134,22 @@ Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen C
 
 # ✏️ Academic Activities
 
-Conference Reviewer
-<div markdown="1">
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
-</div>
+**Conference Reviewer**
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
 
-Journal Reviewer
-<div markdown="1">
-- IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
-- Engineering Applications of Artificial Intelligence (**EAAI**)
-- Molecular Diversity
-- Scientific Reports
-- Chemical Papers
-- International Journal of Data Science and Analytics
-- BMC Bioinformatics
-- BMC Medical Genomics
-- BMC Artificial Intelligence
-- Journal of King Saud University Computer and Information Sciences
-- Discover Applied Sciences
-- In Silico Pharmacology
-</div>
+**Journal Reviewer**
+  - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+  - Engineering Applications of Artificial Intelligence (**EAAI**)
+  - Molecular Diversity
+  - Scientific Reports
+  - Chemical Papers
+  - International Journal of Data Science and Analytics
+  - BMC Bioinformatics
+  - BMC Medical Genomics
+  - BMC Artificial Intelligence
+  - Journal of King Saud University Computer and Information Sciences
+  - Discover Applied Sciences
+  - In Silico Pharmacology
 
 
 <!-- # 💻 Internships
