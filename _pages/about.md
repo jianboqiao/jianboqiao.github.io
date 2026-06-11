@@ -132,6 +132,7 @@ Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen C
 
 - Predicting RNA modifications without retraining through incremental learning. *The Second CCF Bioinformatics “New Future” Young Scholars (BIO-3NEW) Symposium.2024.04.*
 
+<span class='anchor' id='academic-activities'></span>
 # ✏️ Academic Activities
 
 **Conference Reviewer**
