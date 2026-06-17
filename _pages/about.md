@@ -141,6 +141,7 @@ Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen C
 **Journal Reviewer**
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
   - Engineering Applications of Artificial Intelligence (**EAAI**)
+  - IEEE Journal of Biomedical and Health Informatics (**JBHI**)
   - Molecular Diversity
   - Scientific Reports
   - Chemical Papers
