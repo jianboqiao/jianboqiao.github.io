@@ -135,6 +135,9 @@ Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen C
 <span class='anchor' id='academic-activities'></span>
 # ✏️ Academic Activities
 
+**Topic Coordinators**
+  - [Frontiers in Neurology](https://www.frontiersin.org/journals/neurology). See our [Research Topic](https://www.frontiersin.org/research-topics/82415/ai-assisted-drug-discovery-target-identification-and-precision-therapy-for-neurological-disorders-and-neuro-oncology)
+
 **Conference Reviewer**
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
 
