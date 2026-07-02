@@ -22,6 +22,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].
 - *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
@@ -77,6 +78,8 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 </div>
 
 <div markdown="1">
+- [An Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00275).  
+**Jianbo Qiao#**, Wenjia Gao#, Ding Wang#, Junru Jin#, Siqi Chen, Zhongmin, Yan, Leyi Wei. **ACS Synthetic Biology, 2026**.
 - [CataCon: a contrastive graph representation learning framework for catalyst prediction](https://link.springer.com/article/10.1186/s13321-026-01212-7).  
 Hua Shi, Yuzhe Wang, Shouzhen Song, Kefei Li, Wenjia Gao, Shuan Liu, **Jianbo Qiao\***, Leyi Wei*. **Journal of Cheminformatics, 2026**. <font color="red">[一区TOP]</font>.
 - [FGMA: A Functional Group-enhanced Deep Learning Method for Drug Toxicity Prediction](https://www.eurekaselect.com/article/153204).  
