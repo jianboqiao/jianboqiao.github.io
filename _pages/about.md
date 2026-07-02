@@ -93,6 +93,8 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 </div>
 <hr>
 
+- [CMA-Nano: A DNA Methylation Detection Method for Nanopore Sequencing Data Based on a Cross-Modal Attention Mechanism](https://pubs.acs.org/doi/full/10.1021/acsomega.6c04504).  
+Hua Shi, Chenglin Yin, **Jianbo Qiao**, Wenjia Gao, Leyi Wei. **ACS Omega, 2026**.
 - [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
 Ke Qiu, Kefei Li, **Jianbo Qiao**, Ding Wang, Junru Jin, Zhongmin Yan, Ka-Chun Wong, Leyi Wei. **European Journal of Medicinal Chemistry, 2026**.
 - [Structure-Aware Multimodal Learning Improves Minor-Class Signal Peptide Prediction](https://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00037).  
