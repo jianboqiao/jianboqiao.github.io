@@ -5,7 +5,12 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% if author.avatar contains "://" %}
+      {% assign author_avatar = author.avatar %}
+    {% else %}
+      {% assign author_avatar = author.avatar | relative_url %}
+    {% endif %}
+    <img src="{{ author_avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
   <div class="author__content">

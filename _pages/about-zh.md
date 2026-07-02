@@ -27,23 +27,23 @@ redirect_from:
 
 - *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
 - *2026.06*: &nbsp;🤗 获山东大学学术之星·优秀成果奖。
-- *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收[一区TOP]。
+- *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收 [一区TOP]。
 - *2025.12*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
 - *2025.11*: &nbsp; 一篇预印本已提交至bioRxiv。
 - *2025.10*: &nbsp; 一篇论文被Computational Biology and Chemistry接收。
 - *2025.10*: &nbsp;🤗 获研究生国家奖学金。
 - *2025.08*: &nbsp; 一篇论文被Methods接收。
-- *2025.05*: &nbsp;🎉 一篇论文被Science China Information Sciences接收[一区TOP, CCF-A]。
+- *2025.05*: &nbsp;🎉 一篇论文被Science China Information Sciences接收 [一区TOP, CCF-A]。
 - *2025.05*: &nbsp;🎉 一篇论文被Neural Networks接收 [一区TOP, CCF-B]。
-- *2025.04*: &nbsp;🎉 一篇论文被**Nature Communications**接收[Nature子刊, 一区TOP]。
-- *2024.01*: &nbsp;🎉 一篇论文被Information Sciences接收[一区TOP, CCF-B]。
+- *2025.04*: &nbsp;🎉 一篇论文被**Nature Communications**接收 [Nature子刊, 一区TOP]。
+- *2024.01*: &nbsp;🎉 一篇论文被Information Sciences接收 [一区TOP, CCF-B]。
 
 <span class='anchor' id='education'></span>
 
 # 📖 教育经历
 
-- *2022.09 - 至今*, 山东大学，人工智能，博士研究生
-- *2018.09 - 2022.06*, 山东大学，软件工程，学士
+- *2022.09 - 至今*，山东大学，人工智能，博士研究生
+- *2018.09 - 2022.06*，山东大学，软件工程，学士
 
 <span class='anchor' id='publications'></span>
 

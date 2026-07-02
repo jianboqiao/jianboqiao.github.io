@@ -12,24 +12,24 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{{ home_label }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me" target="_self">{{ home_label }}</a></li>
           {% for link in nav_links %}
-            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <div class="masthead__language" aria-label="Language switcher">
+          {% if page_lang == "zh" %}
+            <span class="language-switcher__current">中文</span>
+            <span class="language-switcher__divider">/</span>
+            <a href="{{ '/en/' | relative_url }}" target="_self">English</a>
+          {% else %}
+            <a href="{{ '/' | relative_url }}" target="_self">中文</a>
+            <span class="language-switcher__divider">/</span>
+            <span class="language-switcher__current">English</span>
+          {% endif %}
+        </div>
       </nav>
-      <div class="masthead__language" aria-label="Language switcher">
-        {% if page_lang == "zh" %}
-          <span class="language-switcher__current">中文</span>
-          <span class="language-switcher__divider">/</span>
-          <a href="{{ '/en/' | relative_url }}">English</a>
-        {% else %}
-          <a href="{{ '/' | relative_url }}">中文</a>
-          <span class="language-switcher__divider">/</span>
-          <span class="language-switcher__current">English</span>
-        {% endif %}
-      </div>
     </div>
   </div>
 </div>

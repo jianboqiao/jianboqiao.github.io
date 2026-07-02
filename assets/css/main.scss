@@ -108,16 +108,23 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.masthead__inner-wrap {
-    position: relative;
+.greedy-nav {
     padding-right: 8.5rem;
+
+    button {
+        right: 8.5rem;
+    }
+
+    .hidden-links {
+        right: 8.5rem;
+    }
 }
 
 .masthead__language {
     position: absolute;
-    top: 50%;
-    right: .5em;
-    transform: translateY(-50%);
+    top: 0;
+    right: 0;
+    height: 100%;
     display: flex;
     align-items: center;
     gap: .35rem;
