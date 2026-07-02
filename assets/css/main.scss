@@ -107,3 +107,40 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.masthead__inner-wrap {
+    position: relative;
+    padding-right: 8.5rem;
+}
+
+.masthead__language {
+    position: absolute;
+    top: 50%;
+    right: .5em;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    gap: .35rem;
+    white-space: nowrap;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-7;
+    color: $masthead-link-color;
+
+    a {
+        color: $masthead-link-color;
+        text-decoration: none;
+
+        &:hover {
+            color: $masthead-link-color-hover;
+        }
+    }
+}
+
+.language-switcher__current {
+    font-weight: 700;
+    color: $masthead-link-color-hover;
+}
+
+.language-switcher__divider {
+    color: $light-gray;
+}

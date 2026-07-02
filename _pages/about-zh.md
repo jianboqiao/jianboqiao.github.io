@@ -1,9 +1,13 @@
 ---
-permalink: /en/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-lang: en
+lang: zh
+redirect_from:
+  - /zh/
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -15,31 +19,35 @@ lang: en
 
 <span class='anchor' id='about-me'></span>
 
-Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, Shandong University. I graduated from Shandong University with a bachelor's degree in software engineering in 2022. I am currently pursuing my Ph.D. in Professor Leyi Wei([魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl))'s research group ([WeiLab](https://wei-group.net/)). My research interests include artificial intelligence and bioinformatics, AI drug discovery, and genome sequence analysis.
+乔剑博，山东大学软件学院人工智能方向博士研究生。我于2022年获得山东大学软件工程学士学位，目前在[魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl)教授课题组（[WeiLab](https://wei-group.net/)）攻读博士学位。我的研究兴趣包括人工智能与生物信息学、AI药物发现和基因组序列分析。
 
+<span class='anchor' id='news'></span>
 
-# 🔥 News
+# 🔥 新闻动态
 
-- *2026.07*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
-- *2026.06*: &nbsp;🤗 I have been awarded the Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
-- *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].
-- *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
-- *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
-- *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
-- *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）.
-- *2025.08*: &nbsp; One paper accepted by Methods. 
-- *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [一区TOP, CCF-A].
-- *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [一区TOP, CCF-B]. 
-- *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
-- *2024.01*: &nbsp;🎉 One paper accepted by Information Sciences [一区TOP, CCF-B].
+- *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
+- *2026.06*: &nbsp;🤗 获山东大学学术之星·优秀成果奖。
+- *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收[一区TOP]。
+- *2025.12*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
+- *2025.11*: &nbsp; 一篇预印本已提交至bioRxiv。
+- *2025.10*: &nbsp; 一篇论文被Computational Biology and Chemistry接收。
+- *2025.10*: &nbsp;🤗 获研究生国家奖学金。
+- *2025.08*: &nbsp; 一篇论文被Methods接收。
+- *2025.05*: &nbsp;🎉 一篇论文被Science China Information Sciences接收[一区TOP, CCF-A]。
+- *2025.05*: &nbsp;🎉 一篇论文被Neural Networks接收 [一区TOP, CCF-B]。
+- *2025.04*: &nbsp;🎉 一篇论文被**Nature Communications**接收[Nature子刊, 一区TOP]。
+- *2024.01*: &nbsp;🎉 一篇论文被Information Sciences接收[一区TOP, CCF-B]。
 
-# 📖 Educations
+<span class='anchor' id='education'></span>
 
-- *2022.09 - now*, Artificial Intelligence, PhD student, Shandong University, Jinan, China.
-- *2018.09 - 2022.06*, Software Engineering, Bachelor's Degree, Shandong University, Jinan, China.
- 
+# 📖 教育经历
 
-# 📝 Publications 
+- *2022.09 - 至今*, 山东大学，人工智能，博士研究生
+- *2018.09 - 2022.06*, 山东大学，软件工程，学士
+
+<span class='anchor' id='publications'></span>
+
+# 📝 学术论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='/images/nc-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,25 +135,30 @@ Sirui Liang, Yanxi Zhao, Junru Jin, **Jianbo Qiao**, Ding Wang, Yu Wang, Leyi We
 - [Clinical Phenotyping Prediction via Auxiliary Task Selection and Adaptive Shared-Space Correction](https://link.springer.com/chapter/10.1007/978-3-031-20500-2_36).  
 Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen Cui. **CAAI International Conference on Artificial Intelligence (CICAI), 2022**.
 
-# 🎖 Honors and Awards
-- *2026.06* Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
-- *2025.10* National Scholarship for Graduate Students（研究生国家奖学金）. 
+<span class='anchor' id='honors'></span>
 
+# 🎖 荣誉奖励
 
-# 💬 Invited Talks
+- *2026.06* 获山东大学学术之星·优秀成果奖。
+- *2025.10* 获研究生国家奖学金。
 
-- Predicting RNA modifications without retraining through incremental learning. *The Second CCF Bioinformatics “New Future” Young Scholars (BIO-3NEW) Symposium.2024.04.*
+<span class='anchor' id='talks'></span>
+
+# 💬 邀请报告
+
+- 无需重新训练的RNA修饰预测增量学习方法。*第二届 CCF 生物信息学“新未来”青年学者（BIO-3NEW）研讨会，2024.04。*
 
 <span class='anchor' id='academic-activities'></span>
-# ✏️ Academic Activities
 
-**Topic Coordinators**
-  - [Frontiers in Neurology](https://www.frontiersin.org/journals/neurology). See our [Research Topic](https://www.frontiersin.org/research-topics/82415/ai-assisted-drug-discovery-target-identification-and-precision-therapy-for-neurological-disorders-and-neuro-oncology)
+# ✏️ 学术服务
 
-**Conference Reviewer**
+**专题协调人**
+  - [Frontiers in Neurology](https://www.frontiersin.org/journals/neurology). 参见我们的 [Research Topic](https://www.frontiersin.org/research-topics/82415/ai-assisted-drug-discovery-target-identification-and-precision-therapy-for-neurological-disorders-and-neuro-oncology)
+
+**会议审稿人**
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)
 
-**Journal Reviewer**
+**期刊审稿人**
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
   - Engineering Applications of Artificial Intelligence (**EAAI**)
   - IEEE Journal of Biomedical and Health Informatics (**JBHI**)
@@ -159,7 +172,3 @@ Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen C
   - Journal of King Saud University Computer and Information Sciences
   - Discover Applied Sciences
   - In Silico Pharmacology
-
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
