@@ -25,6 +25,8 @@ redirect_from:
 
 # 🔥 新闻动态
 
+- *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Information and Modeling接收。
+- *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Theory and Computation接收。
 - *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
 - *2026.06*: &nbsp;🤗 获山东大学学术之星·优秀成果奖。
 - *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收 [一区TOP]。
@@ -63,6 +65,13 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='/images/jctc-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning].  
+**Jianbo Qiao#**, Kefei Li#, Junru Jin, Ding Wang, Wenjia Gao, Shaoye Zhang, Shuan Liu, Leyi Wei. **Journal of Chemical Theory and Computation, 2026**. <font color="red">[一区TOP]</font>.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='/images/nn-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
@@ -85,6 +94,8 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 </div>
 
 <div markdown="1">
+- [FGSGT-DDI: LLM-Enhanced Functional Group Semantic Graph Transformer for Drug–Drug Interaction Prediction].  
+Kefei Li#, **Jianbo Qiao#**, Yuntao Yang, Hanjun Zhao, Ding Wang, Junru Jin, Zhongmin Yan, Leyi Wei. **Journal of Chemical Information and Modeling, 2026**.
 - [An Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00275).  
 **Jianbo Qiao#**, Wenjia Gao#, Ding Wang#, Junru Jin#, Siqi Chen, Zhongmin, Yan, Leyi Wei. **ACS Synthetic Biology, 2026**.
 - [CataCon: a contrastive graph representation learning framework for catalyst prediction](https://link.springer.com/article/10.1186/s13321-026-01212-7).  
@@ -100,6 +111,8 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 </div>
 <hr>
 
+- [PeptideSGCL: Structure-enhanced graph-transformer encoding and dual-level contrastive learning for peptide property prediction].  
+Jiajie Cai, Shuwen Xiong, Yuntao Yang, Hanjun Zhao, **Jianbo Qiao**, Zhongmin Yan, Ran Su, Xinbo Jiang, Lichao Zhang, Leyi Wei. **ACS Synthetic Biology, 2026**.
 - [CMA-Nano: A DNA Methylation Detection Method for Nanopore Sequencing Data Based on a Cross-Modal Attention Mechanism](https://pubs.acs.org/doi/full/10.1021/acsomega.6c04504).  
 Hua Shi, Chenglin Yin, **Jianbo Qiao**, Wenjia Gao, Leyi Wei. **ACS Omega, 2026**.
 - [Accurate and interpretable ADMET prediction: Integrating structural, geometric, and global molecular context representations](https://www.sciencedirect.com/science/article/pii/S0223523426003004).  
