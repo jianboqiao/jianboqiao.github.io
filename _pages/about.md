@@ -31,7 +31,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
 - *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
 - *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）.
-- *2025.08*: &nbsp; One paper accepted by Methods. 
+- *2025.08*: &nbsp; One paper accepted by Methods.
 - *2025.05*: &nbsp;🎉 One paper accepted by Science China Information Sciences [一区TOP, CCF-A].
 - *2025.05*: &nbsp;🎉 One paper accepted by Neural Networks [一区TOP, CCF-B]. 
 - *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
