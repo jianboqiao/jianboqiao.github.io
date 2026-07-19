@@ -21,6 +21,8 @@ redirect_from:
 
 乔剑博，山东大学软件学院人工智能方向博士研究生。我于2022年获得山东大学软件工程学士学位，目前在[魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl)教授课题组（[WeiLab](https://wei-group.net/)）攻读博士学位。我的研究兴趣包括人工智能与生物信息学、AI药物发现和基因组序列分析。
 
+<p class="scholar-metrics"><a href="{{ site.author.googlescholar }}">Google Scholar</a>：Citations <strong><span id="total_cit" aria-live="polite">--</span></strong> &nbsp;·&nbsp; H-index <strong><span id="h_index" aria-live="polite">--</span></strong></p>
+
 <span class='anchor' id='news'></span>
 
 # 🔥 新闻动态
