@@ -11,11 +11,6 @@
                 totalCitationEle.textContent = data['citedby'];
             }
 
-            var hIndexEle = document.getElementById('h_index');
-            if (hIndexEle && data['hindex'] != null) {
-                hIndexEle.textContent = data['hindex'];
-            }
-
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
