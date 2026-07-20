@@ -25,14 +25,12 @@ redirect_from:
 
 # 🔥 新闻动态
 
-- *2026.07*: &nbsp;🎉 一篇论文被**Nature Communications**原则性接收 [Nature子刊, 一区TOP]。
 - *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Information and Modeling接收。
 - *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Theory and Computation接收。
 - *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
 - *2026.06*: &nbsp;🤗 获山东大学学术之星·优秀成果奖。
 - *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收 [一区TOP]。
 - *2025.12*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
-- *2025.11*: &nbsp; 一篇预印本已提交至bioRxiv。
 - *2025.10*: &nbsp; 一篇论文被Computational Biology and Chemistry接收。
 - *2025.10*: &nbsp;🤗 获研究生国家奖学金。
 - *2025.08*: &nbsp; 一篇论文被Methods接收。
@@ -62,7 +60,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='/images/melody.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
-Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **Nature Communications, 2026**. <font color="red">[Nature子刊, 一区TOP]</font>.
+Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 </div>
 </div>
 

@@ -19,14 +19,12 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉 One paper accepted in principle by **Nature Communications** [Nature子刊, 一区TOP].
 - *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Information and Modeling.
 - *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Theory and Computation.
 - *2026.07*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2026.06*: &nbsp;🤗 I have been awarded the Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
 - *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].
 - *2025.12*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
-- *2025.11*: &nbsp; One preprint has been submitted to bioRxiv.
 - *2025.10*: &nbsp; One paper accepted by Computational Biology and Chemistry.
 - *2025.10*: &nbsp;🤗 I have been awarded the National Scholarship for Graduate Students（研究生国家奖学金）.
 - *2025.08*: &nbsp; One paper accepted by Methods.
@@ -53,7 +51,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='/images/melody.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
-Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **Nature Communications, 2026**. <font color="red">[Nature子刊, 一区TOP]</font>.
+Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
 </div>
 </div>
 
