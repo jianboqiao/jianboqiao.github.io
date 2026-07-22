@@ -85,7 +85,7 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 
 
 <div markdown="1">
-- [FGSGT-DDI: LLM-Enhanced Functional Group Semantic Graph Transformer for Drug–Drug Interaction Prediction](https://scholar.google.com/citations?user=9EUGcPwAAAAJ).  
+- [FGSGT-DDI: LLM-Enhanced Functional Group Semantic Graph Transformer for Drug–Drug Interaction Prediction](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.6c01476).  
 Kefei Li#, **Jianbo Qiao#**, Yuntao Yang, Hanjun Zhao, Ding Wang, Junru Jin, Zhongmin Yan, Leyi Wei. **Journal of Chemical Information and Modeling, 2026**.
 - [An Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00275).  
 **Jianbo Qiao#**, Wenjia Gao#, Ding Wang#, Junru Jin#, Siqi Chen, Zhongmin, Yan, Leyi Wei. **ACS Synthetic Biology, 2026**.
@@ -102,7 +102,7 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 </div>
 <hr>
 
-- [PeptideSGCL: Structure-enhanced graph-transformer encoding and dual-level contrastive learning for peptide property prediction](https://scholar.google.com/citations?user=9EUGcPwAAAAJ).  
+- [PeptideSGCL: Structure-enhanced graph-transformer encoding and dual-level contrastive learning for peptide property prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00318).  
 Jiajie Cai, Shuwen Xiong, Yuntao Yang, Hanjun Zhao, **Jianbo Qiao**, Zhongmin Yan, Ran Su, Xinbo Jiang, Lichao Zhang, Leyi Wei. **ACS Synthetic Biology, 2026**.
 - [CMA-Nano: A DNA Methylation Detection Method for Nanopore Sequencing Data Based on a Cross-Modal Attention Mechanism](https://pubs.acs.org/doi/full/10.1021/acsomega.6c04504).  
 Hua Shi, Chenglin Yin, **Jianbo Qiao**, Wenjia Gao, Leyi Wei. **ACS Omega, 2026**.
