@@ -50,7 +50,7 @@ redirect_from:
 
 # 📝 学术论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='/images/nc-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun.</div><img src='/images/nc-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability](https://www.nature.com/articles/s41467-025-59634-0).  
 **Jianbo Qiao#**, Junru Jin#, Ding Wang#, Saisai Teng, Junyu Zhang, Xuetong Yang, Yuhang Liu, Yu Wang, Lizhen Cui, Quan Zou, Ran Su, Leyi Wei. **Nature Communications, 2025**. <font color="red">[Nature子刊, 一区TOP]</font>.
@@ -64,28 +64,28 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENCE CHINA Information Sciences</div><img src='/images/scis-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. China Inf. Sci.</div><img src='/images/scis-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Molecular pretraining models towards molecular property prediction](https://link.springer.com/article/10.1007/s11432-024-4457-2).  
 **Jianbo Qiao**, Wenjia Gao, Junru Jin, Ding Wang, Xu Guo, Balachandran Manavalan, Leyi Wei. **Science China Information Sciences, 2025**. <font color="red">[一区TOP, CCF-A]</font>.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='/images/jctc-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chem. Theory Comput.</div><img src='/images/jctc-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6c00815).  
 **Jianbo Qiao#**, Kefei Li#, Junru Jin, Ding Wang, Wenjia Gao, Shaoye Zhang, Shuan Liu, Leyi Wei. **Journal of Chemical Theory and Computation, 2026**. <font color="red">[一区TOP]</font>.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='/images/nn-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Netw.</div><img src='/images/nn-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Taco-DDI: accurate prediction of drug-drug interaction events using graph transformers and dynamic co-attention matrices](https://www.sciencedirect.com/science/article/pii/S0893608025005350).  
 **Jianbo Qiao**, Xu Guo, Junru Jin, Ding Wang, Kefei Li, Wenjia Gao, Feifei Cui, Zilong Zhang, Hua Shi, Leyi Wei. **Neural Networks, 2025**. <font color="red">[一区TOP, CCF-B]</font>.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='/images/ins-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Inf. Sci.</div><img src='/images/ins-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards retraining-free RNA modification prediction with incremental learning](https://www.sciencedirect.com/science/article/pii/S0020025524000185).  
 **Jianbo Qiao**, Junru Jin, Haoqing Yu, Leyi Wei. **Information Sciences, 2024**. <font color="red">[一区TOP, CCF-B]</font>.
