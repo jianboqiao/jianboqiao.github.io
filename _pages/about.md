@@ -20,7 +20,7 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Information and Modeling.
-- *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Theory and Computation.
+- *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Theory and Computation [一区TOP].
 - *2026.07*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2026.06*: &nbsp;🤗 I have been awarded the Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
 - *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].
@@ -64,7 +64,7 @@ Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Qua
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='/images/jctc-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning](https://scholar.google.com/citations?user=9EUGcPwAAAAJ).  
+[Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6c00815).  
 **Jianbo Qiao#**, Kefei Li#, Junru Jin, Ding Wang, Wenjia Gao, Shaoye Zhang, Shuan Liu, Leyi Wei. **Journal of Chemical Theory and Computation, 2026**. <font color="red">[一区TOP]</font>.
 </div>
 </div>
