@@ -25,6 +25,7 @@ redirect_from:
 
 # 🔥 新闻动态
 
+- *2026.08*: &nbsp;🎉 一篇论文被**Nature Communications**接收 [Nature子刊, 一区TOP]。
 - *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Information and Modeling接收。
 - *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Theory and Computation接收 [一区TOP]。
 - *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
@@ -57,10 +58,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='/images/melody.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun.</div><img src='/images/melody.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues](https://www.biorxiv.org/content/10.1101/2025.11.23.689975v1).  
-Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **bioRxiv, 2025**.
+Junru Jin#, Ding Wang#, **Jianbo Qiao#**, Wenjia Gao, Yuhang Liu, Siqi Chen, Quan Zou, Shu Wu, Ran Su, Leyi Wei. **Nature Communications, 2026**. <font color="red">[Nature子刊, 一区TOP]</font>.
 </div>
 </div>
 
