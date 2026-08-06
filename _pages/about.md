@@ -15,7 +15,7 @@ lang: en
 
 <span class='anchor' id='about-me'></span>
 
-Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, Shandong University. I graduated from Shandong University with a bachelor's degree in software engineering in 2022. I am currently pursuing my Ph.D. in Professor Leyi Wei([魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl))'s research group ([WeiLab](https://wei-group.net/)). My research interests include artificial intelligence and bioinformatics, AI drug discovery, and genome sequence analysis.
+Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, Shandong University. I graduated from Shandong University with a bachelor's degree in software engineering in 2022. I am currently pursuing my Ph.D. in Professor Leyi Wei([魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl))'s research group ([WeiLab](https://wei-group.net/)). My research interests include artificial intelligence and bioinformatics, AI drug discovery, and genome sequence analysis. In recent years, more than 30 papers have been published, **of which 13 have been published as co authors, co authors, or corresponding authors**, such as **Nature Communications (2025, 2026), Science China Information Sciences (TOP 1, CCF-A)**, and other top journals in the field. **The related work has been cited more than 400 times, and currently the H-factor (Google) is 10**.
 
 # 🔥 News
 
