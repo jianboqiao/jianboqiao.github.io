@@ -20,8 +20,8 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 # 🔥 News
 
 - *2026.08*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
-- *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Information and Modeling.
 - *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Theory and Computation [一区TOP].
+- *2026.07*: &nbsp;🎉 One paper accepted by Journal of Chemical Information and Modeling.
 - *2026.07*: &nbsp;🎉 One paper accepted by ACS Synthetic Biology.
 - *2026.06*: &nbsp;🤗 I have been awarded the Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
 - *2026.05*: &nbsp;🎉 One paper accepted by Journal of Cheminformatics [一区TOP].

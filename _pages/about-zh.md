@@ -26,8 +26,8 @@ redirect_from:
 # 🔥 新闻动态
 
 - *2026.08*: &nbsp;🎉 一篇论文被**Nature Communications**接收 [Nature子刊, 一区TOP]。
-- *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Information and Modeling接收。
 - *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Theory and Computation接收 [一区TOP]。
+- *2026.07*: &nbsp;🎉 一篇论文被Journal of Chemical Information and Modeling接收。
 - *2026.07*: &nbsp;🎉 一篇论文被ACS Synthetic Biology接收。
 - *2026.06*: &nbsp;🤗 获山东大学学术之星·优秀成果奖。
 - *2026.05*: &nbsp;🎉 一篇论文被Journal of Cheminformatics接收 [一区TOP]。
