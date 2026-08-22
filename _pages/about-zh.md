@@ -111,6 +111,8 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 </div>
 <hr>
 
+- [Hyp-retro: hypernetwork-guided preference-conditioned retrosynthetic planner](https://link.springer.com/article/10.1007/s11030-026-11694-0).  
+Jingwen Wang, Shuan Liu, Shaoye Zhang, Jianbo Qiao, Guanhe Li, Hanjun Zhao, Xiangxiang Zeng, Jinjin Li, Changhang Lin, Chen Su, Leyi Wei. **Molecular Diversity, 2026**.
 - [PeptideSGCL: Structure-enhanced graph-transformer encoding and dual-level contrastive learning for peptide property prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00318).  
 Jiajie Cai, Shuwen Xiong, Yuntao Yang, Hanjun Zhao, **Jianbo Qiao**, Zhongmin Yan, Ran Su, Xinbo Jiang, Lichao Zhang, Leyi Wei. **ACS Synthetic Biology, 2026**.
 - [CMA-Nano: A DNA Methylation Detection Method for Nanopore Sequencing Data Based on a Cross-Modal Attention Mechanism](https://pubs.acs.org/doi/full/10.1021/acsomega.6c04504).  
