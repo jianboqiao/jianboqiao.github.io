@@ -103,6 +103,8 @@ Na Li*, Xiao Wang, Ming Zeng, Feng Cao, Ke Qiu, **Jianbo Qiao\***. **Methods, 20
 </div>
 <hr>
 
+- [A Token-Pruning Framework Enables Efficient Representation of the Human Genome for RNA Modification Analysis](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag621/8778546).  
+Wenjia Gao, Junlei Yu, Junru Jin, Jiajie Cai, Ke Qiu, Shun Zhang, **Jianbo Qiao**, Leyi Wei. **Bioinformatics, 2026**. <font color="red">[CCF-A]</font>.
 - [Hyp-retro: hypernetwork-guided preference-conditioned retrosynthetic planner](https://link.springer.com/article/10.1007/s11030-026-11694-0).  
 Jingwen Wang, Shuan Liu, Shaoye Zhang, **Jianbo Qiao**, Guanhe Li, Hanjun Zhao, Xiangxiang Zeng, Jinjin Li, Changhang Lin, Chen Su, Leyi Wei. **Molecular Diversity, 2026**.
 - [PeptideSGCL: Structure-enhanced graph-transformer encoding and dual-level contrastive learning for peptide property prediction](http://pubs.acs.org/doi/abs/10.1021/acssynbio.6c00318).  
