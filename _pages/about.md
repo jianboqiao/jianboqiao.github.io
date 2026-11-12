@@ -17,6 +17,8 @@ lang: en
 
 Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, Shandong University. I graduated from Shandong University with a bachelor's degree in software engineering in 2022. I am currently pursuing my Ph.D. in Professor Leyi Wei([魏乐义](https://scholar.google.com.hk/citations?user=0EAV03MAAAAJ&hl))'s research group ([WeiLab](https://wei-group.net/)). My research interests include artificial intelligence and bioinformatics, AI drug discovery, and genome sequence analysis. In recent years, more than 30 papers have been published, **of which 13 have been published as co authors, co authors, or corresponding authors**, such as **Nature Communications (2025, 2026), Science China Information Sciences (TOP 1, CCF-A)**, and other top journals in the field. **The related work has been cited more than 400 times, and currently the H-factor (Google) is 10**.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 - *2026.08*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
@@ -34,11 +36,15 @@ Jianbo Qiao (乔剑博), a Ph.D. student at the School of Software Engineering, 
 - *2025.04*: &nbsp;🎉 One paper accepted by **Nature Communications** [Nature子刊, 一区TOP].
 - *2024.01*: &nbsp;🎉 One paper accepted by Information Sciences [一区TOP, CCF-B].
 
+<span class='anchor' id='education'></span>
+
 # 📖 Educations
 
 - *2022.09 - now*, Artificial Intelligence, PhD student, Shandong University, Jinan, China.
 - *2018.09 - 2022.06*, Software Engineering, Bachelor's Degree, Shandong University, Jinan, China.
  
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -144,10 +150,14 @@ Sirui Liang, Yanxi Zhao, Junru Jin, **Jianbo Qiao**, Ding Wang, Yu Wang, Leyi We
 - [Clinical Phenotyping Prediction via Auxiliary Task Selection and Adaptive Shared-Space Correction](https://link.springer.com/chapter/10.1007/978-3-031-20500-2_36).  
 Xiao Yang, Ning Liu, **Jianbo Qiao**, Haitao Yuan, Teng Ma, Yonghui Xu, Lizhen Cui. **CAAI International Conference on Artificial Intelligence (CICAI), 2022**.
 
+<span class='anchor' id='honors'></span>
+
 # 🎖 Honors and Awards
 - *2026.06* Shandong University Academic Star · Outstanding Achievement Award（学术之星·优秀成果奖）.
 - *2025.10* National Scholarship for Graduate Students（研究生国家奖学金）. 
 
+
+<span class='anchor' id='talks'></span>
 
 # 💬 Invited Talks
 

@@ -1,33 +1,24 @@
 ---
-layout: compress
 ---
 
+{% assign homepage_style = 'classic' %}
+{% assign homepage_stylesheet = '/assets/css/main.css' %}
+{% if site.homepage_style == 'anleeno' %}
+  {% assign homepage_style = 'anleeno' %}
+  {% assign homepage_stylesheet = '/assets/css/anleeno.css' %}
+{% endif %}
 <!doctype html>
 <html lang="{% if page.lang == 'en' %}en{% else %}zh-CN{% endif %}" class="no-js">
   <head>
-    {% include head.html %}
+    {% include head.html stylesheet=homepage_stylesheet %}
     {% include head/custom.html %}
   </head>
 
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-    </div>
-
-    {% include scripts.html %}
-
+  <body id="top" class="theme-{{ homepage_style }}">
+    {% if homepage_style == 'anleeno' %}
+      {% include themes/anleeno.html %}
+    {% else %}
+      {% include themes/classic.html %}
+    {% endif %}
   </body>
 </html>

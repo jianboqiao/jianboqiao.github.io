@@ -4,19 +4,19 @@ main:
     url: "/en/#about-me"
 
   - title: "News"
-    url: "/en/#-news"
+    url: "/en/#news"
 
   - title: "Educations"
-    url: "/en/#-educations"
+    url: "/en/#education"
 
   - title: "Publications"
-    url: "/en/#-publications"
+    url: "/en/#publications"
 
   - title: "Honors and Awards"
-    url: "/en/#-honors-and-awards"
+    url: "/en/#honors"
 
   - title: "Invited Talks"
-    url: "/en/#-invited-talks"
+    url: "/en/#talks"
 
   - title: "Academic Activities"
     url: "/en/#academic-activities"

@@ -9,6 +9,8 @@
 title                    : "Jianbo Qiao"
 description              : "Ph.D. student"
 repository               : "jianboqiao/jianboqiao.github.io"
+# Homepage style: "anleeno" (new) or "classic" (original). Rebuild after changing.
+homepage_style           : "anleeno"
 google_scholar_stats_use_cdn : true
 
 # google analytics

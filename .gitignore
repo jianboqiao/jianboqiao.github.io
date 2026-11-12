@@ -1,4 +1,5 @@
 _site/
+tmp/
 push.sh
 .DS_Store
 .git
