@@ -15,13 +15,14 @@
 {% assign author_avatar = author.avatar | relative_url %}
 {% if author.avatar contains '://' %}{% assign author_avatar = author.avatar %}{% endif %}
 
+<div class="App">
 <a class="academic-skip" href="#main" target="_self">{{ labels.skip }}</a>
-<header class="academic-header">
-  <div class="academic-header__inner">
-    <a class="academic-brand" href="{{ home_url | relative_url }}" target="_self">{{ author.name | escape }}</a>
-    <nav id="academic-nav" class="academic-nav" aria-label="{{ labels.navigation }}">
+<header class="academic-header header-wrapper" style="--nav-count: {{ nav_links.size }}">
+  <div class="academic-header__inner header-container">
+    <div class="header-name"><a class="academic-brand name-main" href="{{ home_url | relative_url }}" target="_self">{{ author.name | escape }}</a></div>
+    <nav id="academic-nav" class="academic-nav header-nav" aria-label="{{ labels.navigation }}">
       {% for link in nav_links %}
-        <a href="{{ link.url | relative_url }}" target="_self"><i class="fas fa-{{ nav_icons[forloop.index0] }}" aria-hidden="true"></i><span>{{ link.title }}</span></a>
+        <a class="nav-item" href="{{ link.url | relative_url }}" target="_self"><span class="nav-item-content"><i class="fas fa-{{ nav_icons[forloop.index0] }}" aria-hidden="true"></i><span>{{ link.title }}</span></span></a>
       {% endfor %}
     </nav>
     <div class="academic-language" aria-label="{{ labels.language }}">
@@ -31,19 +32,23 @@
         <span aria-current="true" lang="zh-CN">中文</span><span aria-hidden="true">/</span><a href="{{ '/en/' | relative_url }}" lang="en" hreflang="en" target="_self">English</a>
       {% endif %}
     </div>
-    <button class="academic-menu" type="button" aria-controls="academic-nav" aria-expanded="false" aria-label="{{ labels.menu }}" title="{{ labels.menu }}"><i class="fas fa-bars" aria-hidden="true"></i></button>
+    <button class="academic-menu hamburger" type="button" aria-controls="academic-nav" aria-expanded="false" aria-label="{{ labels.menu }}" title="{{ labels.menu }}"><i class="fas fa-bars" aria-hidden="true"></i></button>
   </div>
 </header>
 
-<div class="academic-layout">
+<div class="academic-layout main-layout">
   {% if page.author_profile %}
-    <aside class="academic-profile" aria-label="{{ author.name | escape }}" itemscope itemtype="https://schema.org/Person">
-      <img class="academic-profile__photo" src="{{ author_avatar }}" alt="{{ author.name | escape }}" width="512" height="512" itemprop="image">
-      <h1 class="academic-profile__name" itemprop="name">{{ author.name | escape }}</h1>
-      <p class="academic-profile__role">{{ site.description | escape }}</p>
-      {% if author.bio %}<p class="academic-profile__affiliation" itemprop="affiliation">{{ author.bio | escape }}</p>{% endif %}
-      {% if author.location %}<p class="academic-profile__location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ author.location | escape }}</p>{% endif %}
-      <div class="academic-profile__links">
+    <aside class="academic-profile left-hero" aria-label="{{ author.name | escape }}" itemscope itemtype="https://schema.org/Person">
+    <div class="hero-grid"><div class="hero-left">
+      <img class="academic-profile__photo profile-pic" src="{{ author_avatar }}" alt="{{ author.name | escape }}" width="512" height="512" itemprop="image">
+      <div class="hero-meta">
+      <h1 class="academic-profile__name meta-name" itemprop="name">{{ author.name | escape }}</h1>
+      <div class="academic-profile__role">{{ site.description | escape }}</div>
+      <div class="meta-description">
+        {% if author.bio %}<div class="meta-description-row" itemprop="affiliation"><i class="fas fa-university" aria-hidden="true"></i><span>{{ author.bio | escape }}</span></div>{% endif %}
+        {% if author.location %}<div class="meta-description-row"><i class="fas fa-map-marker-alt" aria-hidden="true"></i><span>{{ author.location | escape }}</span></div>{% endif %}
+      </div>
+      <div class="academic-profile__links contact-small">
         {% if author.email %}<a href="mailto:{{ author.email }}" aria-label="Email" data-tooltip="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>{% endif %}
         {% if author.googlescholar %}<a href="{{ author.googlescholar }}" rel="noopener noreferrer" aria-label="Google Scholar" data-tooltip="Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>{% endif %}
         {% if author.researchgate %}<a href="{{ author.researchgate }}" rel="noopener noreferrer" aria-label="ResearchGate" data-tooltip="ResearchGate"><i class="fab fa-researchgate" aria-hidden="true"></i></a>{% endif %}
@@ -52,18 +57,20 @@
         {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}" rel="noopener noreferrer" aria-label="LinkedIn" data-tooltip="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>{% endif %}
         {% if author.uri %}<a href="{{ author.uri }}" rel="noopener noreferrer" aria-label="{{ labels.website }}" data-tooltip="{{ labels.website }}"><i class="fas fa-link" aria-hidden="true"></i></a>{% endif %}
       </div>
-      <p class="academic-profile__updated">{{ labels.updated }} {{ site.time | date: '%Y.%m.%d' }}</p>
+      </div>
+    </div></div>
     </aside>
   {% endif %}
-  <main id="main" class="academic-main" tabindex="-1">
-    <article class="academic-content" data-image-label="{{ labels.enlarge }}" itemscope itemtype="https://schema.org/CreativeWork">
+  <main id="main" class="academic-main right-content" tabindex="-1">
+    <article class="academic-content content-shell" data-image-label="{{ labels.enlarge }}" itemscope itemtype="https://schema.org/CreativeWork">
       <div itemprop="text">{{ content }}</div>
     </article>
-    <footer class="academic-footer">&copy; {{ site.time | date: '%Y' }} {{ author.name | escape }}<span><a href="https://github.com/Anleeno/anleeno-academic" rel="noopener noreferrer">Anleeno Academic</a> &middot; Jekyll</span></footer>
   </main>
 </div>
+<footer class="academic-footer site-footer"><div class="site-footer-content"><p>&copy; {{ site.time | date: '%Y' }} {{ author.name | escape }}</p><span><a href="https://github.com/Anleeno/anleeno-academic" rel="noopener noreferrer">Anleeno Academic</a> &middot; Jekyll</span></div></footer>
+</div>
 
-<a class="academic-top" href="#top" target="_self" aria-label="{{ labels.top }}" data-tooltip="{{ labels.top }}"><i class="fas fa-arrow-up" aria-hidden="true"></i></a>
+<a class="academic-top back-to-top" href="#top" target="_self" aria-label="{{ labels.top }}" data-tooltip="{{ labels.top }}"><i class="fas fa-arrow-up" aria-hidden="true"></i></a>
 <dialog class="academic-lightbox" aria-labelledby="academic-image-title">
   <div class="academic-lightbox__toolbar"><span id="academic-image-title">{{ labels.figure }}</span><button type="button" aria-label="{{ labels.close }}" title="{{ labels.close }}"><i class="fas fa-times" aria-hidden="true"></i></button></div>
   <figure><img alt=""><figcaption></figcaption></figure>

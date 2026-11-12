@@ -1,0 +1,70 @@
+{
+  "repository": "https://github.com/Anleeno/anleeno-academic",
+  "revision": "a27fc8501723c9d43e85f80941d793674be78acf",
+  "files": [
+    {
+      "source": "src/index.css",
+      "file": "index.css",
+      "sha": "392f8ea0705405ee963eec5d3eb6d67f08c5d48e",
+      "modifications": []
+    },
+    {
+      "source": "src/App.css",
+      "file": "App.css",
+      "sha": "eaa36b48d29b80281b148d52dc6248c6e0db43f3",
+      "modifications": []
+    },
+    {
+      "source": "src/css/Header.css",
+      "file": "Header.css",
+      "sha": "f50bbf8ef6e08863142ed293d74cd72af87aad26",
+      "modifications": [
+        "Removed unused Google Fonts import; site uses Microsoft YaHei."
+      ]
+    },
+    {
+      "source": "src/css/Hero.css",
+      "file": "Hero.css",
+      "sha": "589018bbee3236bb4cf9d83b8795f912701a940d",
+      "modifications": []
+    },
+    {
+      "source": "src/css/About.css",
+      "file": "About.css",
+      "sha": "4907a7b79a8da066126a07a7b7b350716f6aedfc",
+      "modifications": [
+        "Removed unused Google Fonts import; site uses Microsoft YaHei."
+      ]
+    },
+    {
+      "source": "src/css/News.css",
+      "file": "News.css",
+      "sha": "11ab8b0d8a1421357e7de80be41c73d36d51b5bc",
+      "modifications": []
+    },
+    {
+      "source": "src/css/Publications.css",
+      "file": "Publications.css",
+      "sha": "8e2ae630c4d9a937623770d6c9eb3f89692e65fd",
+      "modifications": []
+    },
+    {
+      "source": "src/css/AcademicBackground.css",
+      "file": "AcademicBackground.css",
+      "sha": "da3266201579c78869ba4e251785efea29d7297b",
+      "modifications": []
+    },
+    {
+      "source": "src/css/Typography.css",
+      "file": "Typography.css",
+      "sha": "b88e8657196fc81c2b2380e1b8942d50bc258a49",
+      "modifications": []
+    },
+    {
+      "source": "src/css/Footer.css",
+      "file": "Footer.css",
+      "sha": "0a22b2aecf8555afed608c631e9a890da5b60679",
+      "modifications": []
+    }
+  ]
+}

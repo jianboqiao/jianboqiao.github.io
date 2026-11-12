@@ -1,6 +1,7 @@
 The anleeno homepage theme adapts layout and styling from:
 https://github.com/Anleeno/anleeno-academic
-App.css, Header.css, Hero.css, News.css, Publications.css, and Typography.css.
+The upstream CSS is included in assets/vendor/anleeno/.
+See assets/vendor/anleeno/source.json for source paths and revision hashes.
 Upstream acknowledges https://github.com/LucyLing24/longling.
 Personal content and media from the upstream project are not included.
 
